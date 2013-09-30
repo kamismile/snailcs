@@ -45,9 +45,6 @@ class MyFrame(wx.Frame):
         })
 
 
-
-
-
         self.opener.add_handler = [('User-agent','Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)'),
             ("Content-type","application/x-www-form-urlencoded"),
             ("Accept","text/plain")
