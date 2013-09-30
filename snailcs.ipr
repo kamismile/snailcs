@@ -148,6 +148,9 @@
       </item>
     </group>
   </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="lidong" />
+  </component>
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/snailcs.iml" filepath="$PROJECT_DIR$/snailcs.iml" />
